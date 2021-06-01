@@ -3,6 +3,7 @@
 
 lib/
 null/
+project/
 # User-specific stuff
 .idea/
 .idea/**/workspace.xml
